@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hey , this is Tahsin Khan 👋<br><br>💼 Third year mechanical undergrad at NITK Surathkal <br>📚 Deeply involved and interested in various aspects of Robotics which include ROS ,ROS2, path planning , autonomous navigation, Arm manipulation , Computer Vision and other niches . Looking foward to developing reltime ROS integrated robotic appliations 
+Hey , this is Tahsin Khan 👋<br><br>💼 Third year mechanical undergrad at NITK Surathkal <br>📚 Deeply involved and interested in various aspects of Robotics which include ROS ,ROS2, path planning , autonomous navigation, Arm manipulation , Computer Vision and other niches <br>💡Looking foward to develop reltime ROS integrated robotic appliations 
 
 
 ## 🌐 Socials:
